@@ -3,4 +3,6 @@ For one of the classes I took when I was in Year 3, I decided to write a program
 
 The mp4 file shows how my program works. 
 
+[Notes]
+
 Please make sure to put the processing and csv files in the same directory. 
