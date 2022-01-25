@@ -1,6 +1,3 @@
-//Ran Thawonmas, 2600180396-3
-//Visualization Final Project
-//Processing IDE Java Mode
 //The number of reported child abuse in Japan from 2008 to 2017
 void settings() {
   size(1400, 800);
